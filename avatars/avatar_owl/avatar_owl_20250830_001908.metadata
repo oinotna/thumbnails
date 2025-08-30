@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250830_001908",
+  "category": "avatars",
+  "prompt_id": "avatar_owl",
+  "description": "Owl avatar",
+  "composed_prompt": "Create reading a book, on a transparent background with alpha channel, reading a coloured light burgundy book, in digital art style, of an owl, high quality, detailed, professional, portrait style, centered composition, with expressive eyes, friendly appearance.",
+  "reference_images": [
+    "refs/avatars/ref.jpg",
+    "refs/avatars/ref2.jpg",
+    "refs/avatars/ref3.jpg"
+  ],
+  "output_image": "generated/avatars/avatar_owl/avatar_owl_20250830_001908.png"
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "20250830_165810",
+  "category": "avatars",
+  "prompt_id": "avatar_racoon",
+  "description": "Raccoon avatar",
+  "composed_prompt": "Create high quality, detailed, professional, in digital art style, of a raccoon, portrait style, centered composition, with expressive eyes, friendly appearance, reading a coloured mustard book, on a clean greenscreen background, with strong fortnite lighting scheme.",
+  "reference_images": [],
+  "output_image": "output/avatars/avatar_racoon/avatar_racoon_20250830_165810.png"
+}

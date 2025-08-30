@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250830_002415",
+  "category": "avatars",
+  "prompt_id": "avatar_racoon",
+  "description": "Raccoon avatar",
+  "composed_prompt": "Create reading a book, on a clean blue screen background, reading a coloured mustard book, in digital art style, of a raccoon, high quality, detailed, professional, portrait style, centered composition, with expressive eyes, friendly appearance.",
+  "reference_images": [
+    "refs/avatars/ref.jpg"
+  ],
+  "output_image": "generated/avatars/avatar_racoon/avatar_racoon_20250830_002415.png"
+}
